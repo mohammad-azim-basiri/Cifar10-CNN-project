@@ -256,7 +256,7 @@ The training loss shows a continuous decrease:
 
 Training curve:
 
-![Training Loss](results/loss_curve.png)
+![Training Loss](src/results/loss_curve.png)
 
 
 The curve indicates:
@@ -290,7 +290,7 @@ Evaluation includes:
 
 # Confusion Matrix Analysis
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](src/results/confusion_matrix.png)
 
 
 The diagonal values represent correctly classified samples.
@@ -367,7 +367,7 @@ These errors are expected because CIFAR-10 images have:
 
 Feature maps from the first convolution layer were extracted.
 
-![Feature Maps](results/features.png)
+![Feature Maps](src/results/features.png)
 
 
 These features represent low-level visual patterns learned by CNN:
