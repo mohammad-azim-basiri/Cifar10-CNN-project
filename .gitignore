@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Dataset
+data/
+src/data/
+
+# Trained models
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
